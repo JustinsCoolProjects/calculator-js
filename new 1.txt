@@ -1,0 +1,24 @@
+ <!DOCTYPE html>
+ <html>
+ <head>
+     <script type="text/javascript">
+	 
+	 var a,b;
+	 a = document.gotElemebtyById("a");
+	  
+	 </script>
+	 
+	 </head>
+	 <body>
+	     <div>
+		     <input id="a" type="text"/>
+			 <input id="b" type+"text"/>
+			 <input type="button" onclick="sum()" value="sum"/>
+			 <input type="button" onclick="sum()" value="rest"/>
+			 <input type="button" onclick="sum()" value="multiply"/>
+			 <input type="button" onclick="sum()" value="divide
+		 </div>
+	 </body>
+	 </html>
+	 
+			 
